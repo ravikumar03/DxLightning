@@ -1,0 +1,77 @@
+[
+    [
+        "C:\\Users\\dhirendra.singh\\DXLightning\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dhirendra.singh\\DXLightning\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504603084229,
+            "changeTime": 1504603730455,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\dhirendra.singh\\DXLightning\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dhirendra.singh\\DXLightning\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504603084229,
+            "changeTime": 1504603730455,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dhirendra.singh\\DXLightning\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dhirendra.singh\\DXLightning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504603084229,
+            "changeTime": 1504603730455,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dhirendra.singh\\DXLightning\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dhirendra.singh\\DXLightning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504603084229,
+            "changeTime": 1504603730454,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dhirendra.singh\\DXLightning",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\dhirendra.singh\\DXLightning",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504605138503,
+            "changeTime": 1504605138503,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
